@@ -186,3 +186,7 @@ int print_binary(va_list types, char buffer[],
 	}
 	return (count);
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6d69026ed3307d2a2aaabd5be17128ffb6983836
